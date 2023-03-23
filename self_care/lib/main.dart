@@ -19,7 +19,6 @@ MaterialColor white = const MaterialColor(
 );
 
 void main() {
-  String? carlos;
   runApp(const MyApp());
 }
 
