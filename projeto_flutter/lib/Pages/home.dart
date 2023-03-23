@@ -10,7 +10,6 @@ class HomePage extends StatelessWidget {
         title: const Text('Meu App Bar'),
         centerTitle: true,
         elevation: 4,
-        // leading: const Icon(Icons.menu),
         actions: [
           IconButton(
             onPressed: () {},
